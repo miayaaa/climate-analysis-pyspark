@@ -37,6 +37,3 @@ This project is part of a broader effort to showcase data engineering and data a
 - Handling and cleaning real-world climate data.
 - Using PySpark for distributed data processing.
 - Creating meaningful visualizations that convey insights from the data.
-
-## License
-This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for more details.
